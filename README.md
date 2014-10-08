@@ -47,7 +47,7 @@ used in this call flow is `<Speak>`. The `<Speak>` element reads out the
 text that is specified.
 
 Hack Tip: Change the <Speak> XML attributes to see how it affects your call.
-For example, change WOMAN to MAN or change en-US to en-GB. Visit the [Speak XML](/docs/xml/speak/) docs
+For example, change WOMAN to MAN or change en-US to en-GB. Visit the [Speak XML](https://plivo.com/docs/xml/speak/) docs
 for exact details on the element attributes.
 
 Click [http://localhost:5000/response/ivr/](http://localhost:5000/response/speak/) to access your app XML and verify it the
@@ -116,4 +116,4 @@ Your output should look like the following. Make a note of your Heroku app URL. 
 Call your Plivo phone number to see how the Text to Speech application works.
 
 
-Is anything on this page unclear? [Suggest edits and help us improve our documentation!](/contact/support/)
+Is anything on this page unclear? [Suggest edits and help us improve our documentation!](https://plivo.com/contact/support/)
